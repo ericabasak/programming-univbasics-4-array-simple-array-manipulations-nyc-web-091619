@@ -14,7 +14,7 @@ end
 
 
 def pop_with_args(array)
-  array.pop(2,"Chihuahua", "Shiba Inu")
+  array.pop("Chihuahua", "Shiba Inu")
   return array
 end
 
